@@ -1,0 +1,47 @@
+#front-image {
+    width: 50rem;
+}
+
+.menubar {
+    overflow: hidden;
+    background-color: rgb(236, 236, 236);
+    padding: 1rem;
+}
+
+#center {
+    text-align: center;
+}
+
+.menubar button {
+    color: rgb(12, 7, 7);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 10px;
+}
+
+.menubar button:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+  }
+
+  h1 {
+      font-size: 5rem;
+      text-align: center;
+      margin: 2rem;
+  }
+
+  p {
+      font-size: 1.5rem;
+      text-align: center;
+      margin: 1rem;
+  }
